@@ -15,7 +15,7 @@ I'm an **aspiring Data Scientist** with a strong interest in **data analytics, v
 - 🐍 [Python Portfolio](https://github.com/anjanikr-analytics/python-portfolio) – Foundation, EDA, data cleaning, and analytics projects  
 
 ## 📫 Contact
-- ✉️ Email: contact.anjanikr@gamil.com, code.anjanikr@gmail.com   
+- ✉️ Email: contact.anjanikr@gmail.com, code.anjanikr@gmail.com   
 
 
 ---
