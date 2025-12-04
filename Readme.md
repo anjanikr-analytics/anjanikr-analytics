@@ -7,8 +7,8 @@ I’m building a portfolio of projects that showcase my skills in **data cleanin
 
 ## 🔧 Tools & Skills
 - 🐍 **Python**: Pandas, NumPy, Matplotlib, Seaborn (data cleaning, analysis, visualization)  
-- 💻 **Development Environments**: Jupyter Notebook, Google Colab, Sublime Text  
-- 🗄️ **SQL**: MySQL Workbench (joins, aggregations, queries)  
+- 💻 **Development Environments**: Jupyter Notebook,Jupyter Lab, Google Colab, Sublime Text  
+- 🗄️ **SQL**: MySQL Workbench (joins, aggregations, queries,cte, window functions)  
 - 📊 **Excel**: PivotTables, Charts, Slicers, Conditional Formatting, Power Query, VBA Macros, Reporting & Analysis  
 - 📈 **Power BI**: Reports, Visualizations, Power Query (data transformation and modeling)  
 - 🔧 **Version Control**: Git, GitHub  
